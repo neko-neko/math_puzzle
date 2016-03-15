@@ -9,8 +9,8 @@ Book:
 # Stats for execution
 | No | Average | Max | Min |
 | :-: | :-: | :-: | :-: |
-|3 |0.046863ms |0.017569ms|0.022245ms|
-|6 |5.539950ms |3.932458ms|4.316430ms|
+|3 |0.011756ms |0.014992ms|0.010033ms|
+|6 |3.799731ms |4.091224ms|3.593058ms|
 
 # Getting started
 ```
