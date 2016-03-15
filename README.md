@@ -14,7 +14,7 @@ Book:
 
 # Getting started
 ```
-mkdir -p $GOPATH/src/github.com/neko-neko/math_puzzle
-cd $GOPATH/src/github.com/neko-neko/math_puzzle
+mkdir -p $GOPATH/src/github.com/neko-neko
+cd $GOPATH/src/github.com/neko-neko
 git clone git@github.com:neko-neko/math_puzzle.git
 ```
