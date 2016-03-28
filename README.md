@@ -9,14 +9,14 @@ Book:
 # Stats for execution
 | No | Average | Max | Min |
 | :-: | :-: | :-: | :-: |
-|3 |0.046863ms  |0.017569ms  |0.022245ms  |
-|6 |5.539950ms  |3.932458ms  |4.316430ms  |
+|3 |0.011756ms |0.014992ms|0.010033ms|
+|6 |3.799731ms |4.091224ms|3.593058ms|
 |16|2.043573ms  |2.335957ms  |1.886537ms  |
 |24|321.379933ms|332.356606ms|300.918510ms|
 
 # Getting started
 ```
-mkdir -p $GOPATH/src/github.com/neko-neko/math_puzzle
-cd $GOPATH/src/github.com/neko-neko/math_puzzle
+mkdir -p $GOPATH/src/github.com/neko-neko
+cd $GOPATH/src/github.com/neko-neko
 git clone git@github.com:neko-neko/math_puzzle.git
 ```
